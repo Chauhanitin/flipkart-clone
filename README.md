@@ -1,2 +1,2 @@
-# flipkart-clone
+# portfolio
 this is a frontend of flipkart clone by using html and css.....
